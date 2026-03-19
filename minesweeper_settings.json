@@ -1,5 +1,16 @@
 {
   "auto_restart_on_fail": false,
-  "auto_restart_on_win": false,
-  "enable_r_restart": false
+  "auto_restart_on_win": true,
+  "enable_r_restart": false,
+  "skin_name": "联萌经典款",
+  "images_path": "images/skins/联萌经典款",
+  "training_n": 4,
+  "training_s1": 2,
+  "training_s2": 3,
+  "training_d": 3,
+  "training_p": 0.5,
+  "training_three_con": false,
+  "training_random_mode": false,
+  "training_highlight": true,
+  "cell_size": 35
 }
