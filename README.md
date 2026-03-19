@@ -1,5 +1,5 @@
 
-# 闪电扫雷 (lghtsweeper) 🎮
+# 闪电扫雷 (lightning-minesweeper) 🎮
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 
